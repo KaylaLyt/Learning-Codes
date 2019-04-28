@@ -1,0 +1,46 @@
+﻿<RibbonTab x:Class="NiHuaWoCaiGameClient.UserControls.MyRibbonTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NiHuaWoCaiGameClient"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <RibbonGroup x:Name="rgColor" Header="笔尖颜色">
+        <RibbonGroup.GroupSizeDefinitions>
+            <RibbonGroupSizeDefinition>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+            </RibbonGroupSizeDefinition>
+        </RibbonGroup.GroupSizeDefinitions>
+        <RibbonRadioButton Label="红色" x:Name="rrbRed" IsChecked="True"/>
+        <RibbonRadioButton Label="蓝色"/>
+        <RibbonRadioButton Label="绿色"/>
+    </RibbonGroup>
+    <RibbonGroup x:Name="rgWidth" Header="笔尖大小">
+        <RibbonGroup.GroupSizeDefinitions>
+            <RibbonGroupSizeDefinition>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+            </RibbonGroupSizeDefinition>
+        </RibbonGroup.GroupSizeDefinitions>
+        <RibbonRadioButton Label="2"/>
+        <RibbonRadioButton Label="6"/>
+        <RibbonRadioButton x:Name="rrbRadius" Label="12" IsChecked="True"/>
+    </RibbonGroup>
+    <RibbonGroup Header="橡皮擦">
+        <RibbonGroup.GroupSizeDefinitions>
+            <RibbonGroupSizeDefinition>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+                <RibbonControlSizeDefinition ImageSize="Small"/>
+            </RibbonGroupSizeDefinition>
+        </RibbonGroup.GroupSizeDefinitions>
+        <RibbonRadioButton Label="全部删除" GroupName="edit"/>
+    </RibbonGroup>
+</RibbonTab>

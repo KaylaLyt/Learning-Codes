@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="GameExample" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="GameExample" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="GameExample/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/NiHuaWoCaiGame/GameService/?xsd=xsd0" namespace="GameExample" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/NiHuaWoCaiGame/GameService/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/NiHuaWoCaiGame/GameService/?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IGameService_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Logout_InputMessage">
+    <wsdl:part name="parameters" element="tns:Logout" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_SitDown_InputMessage">
+    <wsdl:part name="parameters" element="tns:SitDown" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_GetUp_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUp" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Start_InputMessage">
+    <wsdl:part name="parameters" element="tns:Start" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Talk_InputMessage">
+    <wsdl:part name="parameters" element="tns:Talk" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_sendPoints_InputMessage">
+    <wsdl:part name="parameters" element="tns:sendPoints" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_sendButtonInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:sendButtonInfo" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_sendQuestion_InputMessage">
+    <wsdl:part name="parameters" element="tns:sendQuestion" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_changeQuestionRole_InputMessage">
+    <wsdl:part name="parameters" element="tns:changeQuestionRole" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_Win_InputMessage">
+    <wsdl:part name="parameters" element="tns:Win" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_play_InputMessage">
+    <wsdl:part name="parameters" element="tns:play" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_stop_InputMessage">
+    <wsdl:part name="parameters" element="tns:stop" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowLogin_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowLogin" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowLogout_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowLogout" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowSitDown_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowSitDown" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowGetUp_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowGetUp" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowStart_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowStart" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowTalk_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowTalk" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_GameStart_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:GameStart" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_ShowWin_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:ShowWin" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_UpdateTablesInfo_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTablesInfo" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showSendPoints_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showSendPoints" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showSendButtonInfo_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showSendButtonInfo" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showSendQuestion_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showSendQuestion" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showChangeQuestionRole_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showChangeQuestionRole" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showPlay_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showPlay" />
+  </wsdl:message>
+  <wsdl:message name="IGameService_showStop_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:showStop" />
+  </wsdl:message>
+  <wsdl:portType name="IGameService">
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="GameExample/IGameService/Login" message="tns:IGameService_Login_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Logout">
+      <wsdl:input wsaw:Action="GameExample/IGameService/Logout" message="tns:IGameService_Logout_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SitDown">
+      <wsdl:input wsaw:Action="GameExample/IGameService/SitDown" message="tns:IGameService_SitDown_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUp">
+      <wsdl:input wsaw:Action="GameExample/IGameService/GetUp" message="tns:IGameService_GetUp_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Start">
+      <wsdl:input wsaw:Action="GameExample/IGameService/Start" message="tns:IGameService_Start_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Talk">
+      <wsdl:input wsaw:Action="GameExample/IGameService/Talk" message="tns:IGameService_Talk_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="sendPoints">
+      <wsdl:input wsaw:Action="GameExample/IGameService/sendPoints" message="tns:IGameService_sendPoints_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="sendButtonInfo">
+      <wsdl:input wsaw:Action="GameExample/IGameService/sendButtonInfo" message="tns:IGameService_sendButtonInfo_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="sendQuestion">
+      <wsdl:input wsaw:Action="GameExample/IGameService/sendQuestion" message="tns:IGameService_sendQuestion_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="changeQuestionRole">
+      <wsdl:input wsaw:Action="GameExample/IGameService/changeQuestionRole" message="tns:IGameService_changeQuestionRole_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Win">
+      <wsdl:input wsaw:Action="GameExample/IGameService/Win" message="tns:IGameService_Win_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="play">
+      <wsdl:input wsaw:Action="GameExample/IGameService/play" message="tns:IGameService_play_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="stop">
+      <wsdl:input wsaw:Action="GameExample/IGameService/stop" message="tns:IGameService_stop_InputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowLogin">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowLogin" message="tns:IGameService_ShowLogin_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowLogout">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowLogout" message="tns:IGameService_ShowLogout_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowSitDown">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowSitDown" message="tns:IGameService_ShowSitDown_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowGetUp">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowGetUp" message="tns:IGameService_ShowGetUp_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowStart">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowStart" message="tns:IGameService_ShowStart_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowTalk">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowTalk" message="tns:IGameService_ShowTalk_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GameStart">
+      <wsdl:output wsaw:Action="GameExample/IGameService/GameStart" message="tns:IGameService_GameStart_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowWin">
+      <wsdl:output wsaw:Action="GameExample/IGameService/ShowWin" message="tns:IGameService_ShowWin_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTablesInfo">
+      <wsdl:output wsaw:Action="GameExample/IGameService/UpdateTablesInfo" message="tns:IGameService_UpdateTablesInfo_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showSendPoints">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showSendPoints" message="tns:IGameService_showSendPoints_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showSendButtonInfo">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showSendButtonInfo" message="tns:IGameService_showSendButtonInfo_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showSendQuestion">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showSendQuestion" message="tns:IGameService_showSendQuestion_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showChangeQuestionRole">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showChangeQuestionRole" message="tns:IGameService_showChangeQuestionRole_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showPlay">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showPlay" message="tns:IGameService_showPlay_OutputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="showStop">
+      <wsdl:output wsaw:Action="GameExample/IGameService/showStop" message="tns:IGameService_showStop_OutputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

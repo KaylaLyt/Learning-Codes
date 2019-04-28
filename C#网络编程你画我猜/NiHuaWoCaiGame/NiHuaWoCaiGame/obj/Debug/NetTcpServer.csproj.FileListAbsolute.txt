@@ -1,0 +1,141 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+C:\Users\lenovo\Desktop\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+H:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+E:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+G:\c#实验\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+E:\程序\源程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+E:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+E:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+E:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_Content.g.cs
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+C:\Users\user\Desktop\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
+G:\c#实验\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_Content.g.cs
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe.config
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.exe
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.pdb
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.exe
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\bin\Debug\NiHuaWoCaiGame.pdb
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csprojResolveAssemblyReference.cache
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.g.cs
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.g.cs
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_Content.g.cs
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.cache
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame_MarkupCompile.lref
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\App.baml
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\MainWindow.baml
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.g.resources
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NiHuaWoCaiGame.Properties.Resources.resources
+G:\演示程序\try\NiHuaWoCaiGame\NiHuaWoCaiGame\obj\Debug\NetTcpServer.csproj.GenerateResource.Cache
