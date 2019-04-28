@@ -1,0 +1,9 @@
+Google is a Web search engine owned by Google, Inc., and is the most used search engine on the Web, related to its Internet search, e-mail, online mapping, office productivity, social networking, and video sharing services as well as selling advertising-free versions of the same technologies.Google receives several hundred million queries each day through its various services.
+
+Google search was originally developed by Larry Page and Sergey Brin in 1997. The Google headquarters, the Googleplex, is located in Mountain View, California. As of 30 September 2008 the company has 20,123 full-time employees.
+
+History of Google
+
+Google began in January 1996, as a research project by Larry Page, who was soon joined by Sergey Brin, two Ph.D. students at Stanford University in California. They hypothesized that a search engine that analyzed the relationships between websites would produce better ranking of results than existing techniques, which ranked results according to the number of times the search term appeared on a page.Their search engine was originally nicknamed "BackRub" because the system checked backlinks to estimate the importance of a site. A small search engine called Rankdex was already exploring a similar strategy.
+
+Convinced that the pages with the most links to them from other highly relevant web pages must be the most relevant pages associated with the search, Page and Brin tested their thesis as part of their studies, and laid the foundation for their search engine. Originally, the search engine used the Stanford University website with the domain google.stanford.edu. The domain google.com was registered on 15 September 1997, and the company was incorporated as Google Inc. on 4 September 1998 at a friend's garage in Menlo Park, California. The total initial investment raised for the new company amounted to almost US$1.1 million, including a US$100,000 check by Andy Bechtolsheim, one of the founders of Sun Microsystems.
